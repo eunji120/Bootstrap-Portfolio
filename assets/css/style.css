@@ -129,7 +129,9 @@ body {
 }
 
 #portfolioItem {
-    height: 250px;
+    width: 250px;
+    height: 200px;
+    margin-right: 50px;
     margin-bottom: 20px;
 }
 
@@ -138,11 +140,12 @@ body {
     font-size: 20px;
     position: relative;
     width: 100%;
+    height: 70px;
     bottom: 20%;
     text-align: center;
     background-color: #4AAAA5;
     padding: 10px;
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 /*I couldn't find a way to fix the overlay text-boxes on the images in the given amount of time*/
