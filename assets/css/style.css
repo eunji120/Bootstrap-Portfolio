@@ -92,7 +92,7 @@ body {
     margin-top: 90px;
     margin-right: 20%;
     margin-left: 20%;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
     padding: 20px;
     box-align: center;
     background-color: #ffffff;
@@ -146,7 +146,7 @@ body {
     font-size: 20px;
     position: absolute;
     width: 100%;
-    height: 70px;
+    height: 50px;
     bottom: 20%;
     text-align: center;
     background-color: #4AAAA5;
@@ -157,13 +157,6 @@ body {
     margin-right: -50%;
     transform: translate(-32%, -21%)
 }
-
-.row {
-
-}
-
-/*I couldn't find a way to fix the overlay text-boxes on the images in the given amount of time*/
-
 
 form {
     float: center;
@@ -261,4 +254,3 @@ footer {
     height: 25px;
 }
 
-/*one of the problems I'm facing is that the footer won't get anchored to the bottom of the page only on the Contact webpage*/
